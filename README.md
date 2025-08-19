@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Abhay!  
 
-🎓 Final-year student at Sandip University, Nashik (Tier-3 college)  
+🎓 Final-year student at Sandip University, Nashik   
 💻 Passionate about **Data Structures & Algorithms, Java, and Web Development**  
 🚀 Preparing for placements & building projects to sharpen my skills  
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on improving my **DSA problem-solving**  
-- 🌱 Learning **System Design & Full-Stack Development**  
-- 💡 Interested in **software engineering, backend systems, and open-source**  
-- ⚡ Fun fact: I learn best by **teaching others & building real projects**  
+- 🔭 Currently working on improving my **DSA problem-solving and Core Java**  
+- 🌱 Learning **Aptitude and Reasoning & Java Full-Stack Development**  
+- 💡 Interested in **software engineering, frontend systems, and open-source**  
+- ⚡ Fun fact: I learn best by **Explaining Others & building real projects**  
 
 ---
 
@@ -19,7 +19,7 @@
 - **Web:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js, Express, Spring Boot  
 - **Database:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code, IntelliJ  
+- **Tools:** Git, GitHub, VS Code,   
 
 ---
 
@@ -31,10 +31,9 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)  
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-green?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_GFG)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaysharma667)  
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-green?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/asdevelo11ml)  
 
 ---
 
-⭐️ From [Abhay](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Abhay](https://github.com/Abhaysharma85)
