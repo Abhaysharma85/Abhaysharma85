@@ -31,8 +31,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaysharma667)  
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-green?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/asdevelo11ml)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaysharma667)  [![GFG](https://img.shields.io/badge/GeeksforGeeks-green?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/asdevelo11ml)  
 
 ---
 
