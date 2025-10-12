@@ -23,13 +23,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhaysharma85&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaysharma85&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaysharma667)  [![GFG](https://img.shields.io/badge/GeeksforGeeks-green?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/asdevelo11ml)  
 
